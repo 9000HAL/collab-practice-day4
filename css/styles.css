@@ -13,5 +13,16 @@ h1 {background-color: magenta;
 }
 
 
-nav {font-size: x-large;}
+nav {font-size: xx-large;
+    
+}
+
+
+.img-fluid {max-width: 45%;
+    height: auto;
+    
+
+}
+
+
 
